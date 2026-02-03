@@ -1,110 +1,121 @@
-<!--START_SECTION:header-->
-<div align="center">
-  <p align="center">
-    <img 
-      alt="DIO Education" 
-      src="https://raw.githubusercontent.com/digitalinnovationone/template-github-trilha/main/.github/assets/logo.webp" 
-      width="100px" 
-    />
-    <h1>Título do Curso ou Projeto</h1>
-  </p>
-</div>
-<!--END_SECTION:header-->
+# 🚀 Plano de Carreira - Analista de Dados
 
-<p align="center">
-  <img src="https://img.shields.io/static/v1?label=DIO&message=Education&color=E94D5F&labelColor=202024" alt="DIO Project" />
-  <a href="NIVEL"><img  src="https://img.shields.io/static/v1?label=Nivel&message=Basico&color=E94D5F&labelColor=202024" alt="Nivel"></a>
+---
 
-</p>
+## 🧩 VISÃO DO DIA A DIA
+Como é o trabalho de um(a) Analista de Dados:
+- Coletar e organizar dados de diferentes fontes  
+- Limpar e preparar dados para análise  
+- Criar relatórios e dashboards para apoiar decisões  
+- Interpretar tendências e padrões nos dados  
+- Comunicar insights para áreas de negócio  
 
-<!--  -->
-<table align="center">
-<thead>
-  <tr>
-    <td>
-        <p align="center">Expert</p>
-        <a href="https://github.com/felipeAguiarCode">
-        <img src="https://avatars0.githubusercontent.com/u/37452836?v=3&s=115" alt="@felipeAguiarCode"><br>
-      </a>
-    </td>
-    <td colspan="3">
-    <p>🎉 10y+ em sistemas comerciais com .NET C# e NODE.JS.
-      <br/>
-     🌟 Desenvolvedor fullstack - Coordenador de educação na DIO
-      <br/>
-    👨‍💻 Foco em front-ends SPA com React, Angular e Vue.js
-    </p>
-      <a 
-      href="https://www.linkedin.com/in/felipe-me/" 
-      align="center">
-           <img 
-            align="center" 
-            alt="Material de Apoio" 
-            src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
-            >
-        </a>
-        <a href="https://www.instagram.com/felipeaguiar.exe/" target="_blank">
-            <img 
-              align="center" 
-              alt="Instagram" 
-              src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"
-            >
-        </a>
-    </td>
-  </tr>
-</thead>
-</table>
-<!--  -->
+---
 
-<br/>
-<br/>
+## 🧠 MAPA DE SKILLS
 
-## 💻 Sobre o Projeto
+**CORE SKILLS (essenciais):**
+- SQL para consultas em bancos de dados  
+- Excel/Planilhas avançadas  
+- Visualização de dados (Power BI, Tableau)  
 
-Vamos construir uma página spa, responsiva, para usar em diversos tipos de micro, pequena e média empresas. Contém as seguintes seções: Header, Navigation, Home, Sobre, Serviços, Depoimentos, Contato e Footer que faz xxx e yyy
+**NICE-TO-HAVE (complementares):**
+- Python para análise de dados  
+- Estatística aplicada  
 
-## 📚 Pré-requisitos de Habilidades e Níveis de Conhecimento
+**FERRAMENTAS E TECNOLOGIAS:**
+- SQL Server / MySQL  
+- Power BI  
+- Python (pandas, matplotlib)  
 
-Antes de ingressar neste conteúdo, é necessário possuir conhecimento prévio nas seguintes áreas:
+---
 
-- [habilidades ou conhecimentos prévios necessários] | [Básico, Intermediário, Avançado ou Especialista]
+## 📅 ROADMAP DE 90 DIAS
+**ADAPTADO PARA: 10 horas/semana**
 
-- _Exemplo_:
+### MÊS 1 - FUNDAMENTOS
+**SEMANA 1-2:**
+- Revisar conceitos básicos de bancos de dados  
+- Aprender comandos SQL fundamentais (SELECT, WHERE, JOIN)  
 
-  - Java | Básico
-  - Gerenciamento de pacotes | Básico
-  -
+**SEMANA 3-4:**
+- Praticar consultas SQL em datasets reais  
+- Introdução a Excel avançado (tabelas dinâmicas, fórmulas)  
 
-- [Outros pré-requisitos, se aplicável]
+### MÊS 2 - PRÁTICA
+**SEMANA 5-6:**
+- Aprender Power BI: importar dados, criar dashboards simples  
+- Exercícios práticos de visualização de dados  
 
-- _Exemplo_:
-  - Lógica de programação
-  - Javascript
+**SEMANA 7-8:**
+- Introdução ao Python para análise de dados (pandas, matplotlib)  
+- Pequenos projetos de análise exploratória  
 
-## 🛠️ Habilidades e Sub-habilidades que vamos aprender neste conteúdo
+### MÊS 3 - PORTFÓLIO E PREPARAÇÃO
+**SEMANA 9-10:**
+- Criar um dashboard completo em Power BI com dados financeiros  
+- Documentar insights e storytelling dos dados  
 
-- [Lista das habilidades principais a serem desenvolvidas]
+**SEMANA 11-12:**
+- Simular entrevistas técnicas  
+- Publicar projeto no GitHub/LinkedIn  
 
-  - [Subhabilidades relacionadas, se aplicável]
+---
 
-- _Exemplo_:
-  - Java
-    - Api Rest
+## 🚀 PROJETO DE PORTFÓLIO
 
-## 🎯 Objetivos e Resultados Esperados
+**PROJETO:** Dashboard Financeiro Interativo  
 
-Após a conclusão do curso/projeto, os estudantes estarão aptos a:
+**O QUE FAZER:**  
+Construir um dashboard em Power BI que analise dados financeiros (receitas, despesas, lucro, tendências).  
 
-- [Descrição do que os estudantes serão capazes de fazer]
-- [Projetos ou soluções que os estudantes estarão aptos a construir]
+**ENTREGÁVEIS:**  
+- Dataset organizado (CSV ou Excel)  
+- Dashboard interativo com filtros  
+- Relatório explicando insights encontrados  
 
-<!--START_SECTION:footer-->
+**CRITÉRIOS DE ACEITAÇÃO:**  
+- Dashboard funcional e claro  
+- Pelo menos 3 visualizações diferentes (gráfico de barras, linha, pizza)  
+- Documentação explicando decisões e insights  
 
-<br />
-<br />
+**DICA:** Use dados públicos de finanças (ex.: bolsa de valores, orçamento público) para dar realismo ao projeto.  
 
-<p align="center">
-  <a href="https://www.dio.me/" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/digitalinnovationone/template-github-trilha/main/.github/assets/footer.png" alt="banner"/>
-  </a>
-</p>
+---
+
+## 💬 ROTEIRO DE ENTREVISTAS
+
+**PERGUNTA 1:** "Você já trabalhou com SQL?"  
+**COMO RESPONDER:** Explique consultas básicas que domina e cite exemplos práticos.  
+
+**PERGUNTA 2:** "Como você lidaria com dados faltantes em um dataset?"  
+**COMO RESPONDER:** Cite técnicas como remoção, substituição por média/mediana ou análise de impacto.  
+
+**PERGUNTA 3:** "Qual a diferença entre um dashboard e um relatório?"  
+**COMO RESPONDER:** Dashboard é interativo e dinâmico, relatório é estático e detalhado.  
+
+**PERGUNTA 4:** "Conte um projeto em que você usou dados para apoiar decisões."  
+**COMO RESPONDER:** Relate o projeto de portfólio, destacando impacto e insights.  
+
+**PERGUNTA 5:** "Quais ferramentas você domina para visualização de dados?"  
+**COMO RESPONDER:** Cite Power BI, Excel e qualquer outra que tenha praticado.  
+
+---
+
+## 🎓 TRILHA DIO RECOMENDADA
+
+**TRILHA:** *Formação Analista de Dados*  
+
+**POR QUE ESSA TRILHA:**  
+Ela cobre SQL, Power BI e fundamentos de análise de dados, exatamente o que você precisa para consolidar sua transição de carreira.  
+
+**PRÓXIMOS PASSOS:**  
+1. Acesse [dio.me](https://dio.me)  
+2. Busque por "Formação Analista de Dados"  
+3. Inscreva-se gratuitamente  
+4. Siga o cronograma junto com este roadmap  
+
+---
+
+✨ Seu plano está pronto!  
+Lembre-se: o mais importante é a **constância**, não a velocidade. Comece pela Semana 1 e vá no seu ritmo.  
